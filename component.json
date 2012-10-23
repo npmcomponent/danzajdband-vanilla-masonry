@@ -1,0 +1,7 @@
+{
+  "name": "vanilla-masonry",
+  "version": "1.0.4",
+  "description": "Vanilla masonry",
+  "keywords": ["masonry", "component"],
+  "scripts": ["index.js"]
+}
