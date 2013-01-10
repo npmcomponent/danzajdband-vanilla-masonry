@@ -3,5 +3,5 @@
   "version": "1.0.6",
   "description": "Vanilla masonry",
   "keywords": ["masonry", "component"],
-  "scripts": ["index.js"]
+  "scripts": ["masonry.js"]
 }

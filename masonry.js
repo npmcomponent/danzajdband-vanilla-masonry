@@ -499,5 +499,6 @@
   Masonry.getWH = getWH;
   // add Masonry to global namespace
   window.Masonry = Masonry;
-
+  // export masonry for component.js
+  module.exports = Masonry;
 })( window );
