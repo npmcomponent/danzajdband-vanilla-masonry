@@ -1,0 +1,10 @@
+{
+  "name": "danzajdband-vanilla-masonry",
+  "description": "Vanilla masonry",
+  "version": "1.0.6",
+  "keywords": [
+    "masonry",
+    "component"
+  ],
+  "dependencies": {}
+}
